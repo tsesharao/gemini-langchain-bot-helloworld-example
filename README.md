@@ -1,2 +1,2 @@
-# gemini-langchain-bot-helloworld-example
-gemini-langchain-bot-helloworld-example
+pip install langchain langchain-google-genai python-dotenv
+python app.py
